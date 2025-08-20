@@ -2274,3 +2274,13 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.orgState {
+	color: #34b360;
+	font-weight: bold;
+}
+
+.orgCon {
+	color: #4976de;
+	font-weight: bold;
+}
