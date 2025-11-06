@@ -91,7 +91,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  color: #383c40;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -2282,5 +2282,10 @@ button,
 
 .orgCon {
 	color: #4976de;
+	font-weight: bold;
+}
+
+.orgStorm {
+	color: #8f49de;
 	font-weight: bold;
 }
